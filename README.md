@@ -8,7 +8,7 @@
 
 **About me:** А developer in a startup ARTHUB. Mentor in the National Technology Olympiad x AI. Intern at [ITAM](http://itatmisis.ru), working with external partners. 
 
-My Telegram Channel about Machine Learning: https://t.me/temapluzhnikov
+**My Telegram Channel about Machine Learning:** https://t.me/temapluzhnikov
 
 Open for the colloboration
 
