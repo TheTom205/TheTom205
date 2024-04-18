@@ -17,3 +17,5 @@ Open for the colloboration
 **[IT purple Hack x Sber: Predicting the outflow of a salary client of a private individual](https://github.com/TheTom205/IT_Purple_Hack)**
 
 This repository contains Jupiter notebooks for training machine learning models created to solve the Sber case problem “Predicting the outflow of a salary client of a private individual” as part of the hackathon “IT Purple Hack 2024”
+
+**[IT purple Hack x Sber: Predicting the outflow of a salary client of a private individual](https://github.com/TheTom205/Gagarin-Hack-ML)**
