@@ -1,4 +1,4 @@
-# Pluzhnikov Artem - a Machine Learning Engineer, an Intern at ITAM
+# Pluzhnikov Artem - a Machine Learning Engineer
 
 - Kaggle: [https://www.kaggle.com/artempl](https://www.kaggle.com/artempl)
 - Telegram: [https://t.me/TheTom205](https://t.me/TheTom205)
